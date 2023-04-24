@@ -1,0 +1,43 @@
+.income-container{
+    position: absolute;
+    left: 320px;
+    top: 445px;
+    border-radius: 19px;
+    background-color: white;
+
+}
+.income-input { 
+    margin: 2% 0% 5% 1.5%;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+     
+}
+.income-legend{
+    position: relative;
+    margin-left: 50%;
+    margin-bottom: 10%;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #809FB8;
+}
+.income-dropdown {
+    align-items: center; 
+    margin: 0% 27% 0% 10%;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    color: #809FB8;
+      
+}
+ 
+.arrow-income{
+ position: absolute;
+}

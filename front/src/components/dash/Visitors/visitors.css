@@ -1,0 +1,25 @@
+.container-visitors {
+    position: absolute;
+    width: 513px;
+    height: 300px;
+    left: 320px;
+    top: 120px;
+    border-radius: 19px;
+    background-color: white;
+}
+
+.chart-title{
+    margin: 20px 0 20px 20px;
+    flex:2;
+}
+.chart-stat {
+    font-size: 15px;
+    color: #DFC729;
+    align-items: center; 
+
+}
+.text-visitors {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,15 @@
+.container-balance {
+    position: absolute;
+    left: 320px;
+    top: 1330px;
+    border-radius: 19px;
+    background-color: white;
+ 
+}
+.balance-input {
+    margin-left: 3%;   
+    margin-top: 2%;
+    font-family: 'ABeeZee';
+    font-weight: 400;
+    font-size: 20px;
+}

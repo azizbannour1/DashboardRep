@@ -1,0 +1,40 @@
+.container-sales{
+    position: absolute;
+    width: 203px;
+    left: 880px;
+    top: 120px;
+    border-radius: 19px;
+    background-color: white;
+}
+.align-desc {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sales-plus {
+    font-size: 15px;
+    color: #DFC729;
+    align-items: center; 
+
+}
+.trending-sales {
+    flex:2;
+    margin: 5% 5% 5% 5%;    
+}
+.sales-input {
+    
+    margin: 0% 5% 5% 5%;    
+    font-family: 'ABeeZee';
+    font-weight: 400;
+    font-size: 20px;
+}
+.sales-sum {
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    color: #809FB8;
+    margin: 5% 5% 5% 5%;    
+
+
+}

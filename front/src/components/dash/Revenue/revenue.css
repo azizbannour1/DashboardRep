@@ -1,0 +1,36 @@
+.container-revenue {
+    position: absolute;
+    width: 203px;
+    left: 880px;
+    top: 970px;
+    border-radius: 19px;
+    background-color: white;
+}
+.revenue-input{
+    margin: 0% 5% 5% 5%;    
+    font-family: 'ABeeZee';
+    font-weight: 400;
+    font-size: 20px;
+}
+.revenue-sum {
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    margin: 5% 5% 5% 5%;  
+    color: #383E41;
+}
+.revenue-increase {
+    align-items: center;
+    color:#809FB8;
+
+}
+.revenue-increase-number{
+    align-items: center;
+    display: flex;
+    color: #809FB8;
+}
+.rev-icon {
+    margin: 5% 5% 5% 5%;    
+
+}
